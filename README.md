@@ -60,7 +60,7 @@ Access at: [http://localhost:7860](http://localhost:7860)
 ```text
 ├── Maternal_Health_Risk_Analysis.ipynb  # Comprehensive research (EDA, cleaning, model comparison)
 ├── full_pipeline.py                     # Full process: Preprocessing -> Train -> Predict -> App
-├── deploy_app.py                               # Production script: Optimized for Predict -> App
+├── deploy_app.py                        # Production script: Optimized for Predict -> App
 ├── src/                                 # Modular Logic (Preprocess/Train)
 ├── models/                              # Saved Model Artifacts
 ├── data/                                # Raw and Processed Datasets
