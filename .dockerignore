@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.gradio/
+.git/
+.env
+data/processed_data.csv

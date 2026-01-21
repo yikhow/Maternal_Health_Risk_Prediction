@@ -1,0 +1,18 @@
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+
+# Gradio web interface temporary files and cache
+.gradio/
+
+# Local environment folders (recommended to add)
+venv/
+.venv/
+env/
+
+# Jupyter Notebook temporary file
+.ipynb_checkpoints/
+
+# 操作系統檔案
+.DS_Store
+Thumbs.db
