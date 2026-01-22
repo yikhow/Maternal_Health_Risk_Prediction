@@ -13,6 +13,6 @@ env/
 # Jupyter Notebook temporary file
 .ipynb_checkpoints/
 
-# 操作系統檔案
+# OS Files
 .DS_Store
 Thumbs.db
